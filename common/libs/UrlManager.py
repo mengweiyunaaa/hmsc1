@@ -3,7 +3,7 @@ class UrlManager(object):
     def __init__(self):
         pass
     @staticmethod
-    def buidUrl(path):
+    def buildUrl(path):
         return path
 
     @staticmethod
